@@ -1,7 +1,7 @@
 {
-  "adfsadf asfdasdf": {
-    "firstName": "adfsadf",
-    "lastName": "asfdasdf",
-    "phoneNumber": "asfdsf"
-  }
+	"Fake Character": {
+		"firstName": "Fake",
+		"lastName": "Character",
+		"phoneNumber": "1234567890"
+	}
 }
